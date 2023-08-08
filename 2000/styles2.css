@@ -1,0 +1,25 @@
+li {
+    font-size: 150%;
+    color: dimgrey;
+    text-align: left;
+}
+
+.header{ 
+    font-style: italic;
+    font-size: 500%;
+    color: dimgrey;
+    text-align: center;
+}
+
+body {
+    background-color: lightblue;
+}
+
+a {
+    color: dimgrey;
+}
+
+li:hover {
+    background-color: red;
+}
+

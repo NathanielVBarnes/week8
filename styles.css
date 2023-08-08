@@ -1,0 +1,32 @@
+body { 
+    background-color: antiquewhite;
+}
+
+h1 {
+    color:dimgray;
+}
+
+body {
+    background-color: beige;
+}
+
+a {
+    color: dimgrey;
+}
+
+li:hover {
+    background-color: red;
+}
+
+.every-even li:nth-child(even){
+    background-color: powderblue;
+}
+
+img { 
+    width: 300px;
+    height: auto;
+}
+
+h6 {
+    color: dimgrey;
+}
